@@ -654,10 +654,10 @@ section {
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.25);
 }
 .sticky-navigation .navbar-brand {
-  margin-top: 9px;
+  margin-top: -18px;
 }
 .sticky-navigation .navbar-brand img {
-  max-height: 26px;
+  max-height: 73px;
 }
 .sticky-navigation .current a {
   color: #fc5f45 !important;
@@ -1537,7 +1537,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
   text-align: center;
 }
 .footer .footer-logo img {
-  max-height: 38px;
+  max-height: 129px;
 }
 
 .fixed-bg {

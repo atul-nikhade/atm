@@ -15,9 +15,9 @@ gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
-gem "font-awesome-rails"
 gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.2'
 # Use Puma as the app server
 
 # Use SCSS for stylesheets
