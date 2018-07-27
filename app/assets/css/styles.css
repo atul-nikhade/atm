@@ -1466,7 +1466,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
    2.14 SECTION: FOOTER
 -----------------------------------------*/
 .get-in-touch {
-  background: url(../assets/6.jpg) no-repeat top;
+  /*background: url(../assets/6.jpg) no-repeat top;*/
   background-size: cover;
   padding-top: 114px;
   padding-bottom: 150px;
